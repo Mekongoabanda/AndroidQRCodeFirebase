@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "36527695895",
+    "firebase_url": "https://androidqrcodefirebase-ba0cd.firebaseio.com",
+    "project_id": "androidqrcodefirebase-ba0cd",
+    "storage_bucket": "androidqrcodefirebase-ba0cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36527695895:android:6295ff6d1311d408",
+        "android_client_info": {
+          "package_name": "esirem.com.androidqrcodefirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "36527695895-pqrajp0fu9j2b2qbuqtb76fvra9gj7li.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "esirem.com.androidqrcodefirebase",
+            "certificate_hash": "605eef2a578db434906cf35a399a57be83634805"
+          }
+        },
+        {
+          "client_id": "36527695895-jp3bm2c0m08eoc6ev45oms62fmiiosf1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeV0IU9euz6s06dLVH_gID_2Q2rL4SOqo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "36527695895-jp3bm2c0m08eoc6ev45oms62fmiiosf1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
